@@ -6,7 +6,7 @@ Specializing in high-concurrency, fault-tolerant microservices —
 distributed storage engines & market data services handling
 high-throughput data across coordinated client/balancer/worker clusters.
 
-Currently pivoting toward applied AI —
+Also pivoting toward applied AI —
 building multi-agent systems (Python · LangGraph),
 while exploring LLM inference & training (SFT,RL).
 
