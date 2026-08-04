@@ -1,15 +1,16 @@
 ## Hi there 👋
 
-**I am a Backend / Infrastructure Engineer (3 yrs).**
+**I am a Backend / Site Reliability Engineer (3 yrs with production experience).**
 
-Specializing in high-concurrency, fault-tolerant microservices —
-distributed storage engines & market data services handling
+Specializing in high-concurrency, distributed systems with Golang,
+distributed storage engines & market data services handling with Java/SpringBoot,
 high-throughput data across coordinated client/balancer/worker clusters.
+With Experience from on-prem, on-prem to cloud migration, to Cloud native.
 
-Also pivoting toward applied AI —
+Also developing applied AI —
 building multi-agent systems (Python · LangGraph),
 while exploring LLM inference & training (SFT,RL).
-
+Privoting to AIInfra.
 
 ---
 
@@ -18,7 +19,7 @@ while exploring LLM inference & training (SFT,RL).
 ### **Backend & Distributed System**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,py,kotlin,spring,mysql,redis,elasticsearch,kafka,idea,eclipse,maven,vscode&perline=11" />
+    <img src="https://skillicons.dev/icons?i=go,java,py,kotlin,spring,mysql,redis,elasticsearch,kafka,idea,eclipse,maven,vscode&perline=11" />
   </a>
 </p>
 
