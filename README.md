@@ -12,7 +12,7 @@ building multi-agent systems (Python · LangGraph),
 while exploring LLM inference & training (SFT,RL).
 Privoting to AIInfra.
 
-*** I am passionate about learning new techlogies by reading, but more importantly by doing and summarizing, here I wrote my tech blog: https://haidalu.github.io/
+### I am passionate about learning new techlogies by reading, but more importantly by doing and summarizing, here I wrote my tech blog: [Haida's Blog](https://haidalu.github.io/)
 
 ---
 
